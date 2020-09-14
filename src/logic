@@ -1,0 +1,17 @@
+
+There is no universally accepted definition for what logic actually is. However, what we can say is that logic is concerned—at least among other things—with the properties of, and the relations between:
+
+    syntax
+    This is the formalization of languages according to rules. It includes for example defining what a formula or a sentence looks like.
+    semantics
+    This is assigning meaning to the syntactic constructs of languages. This includes defining how sentences are interpreted, and stating under what conditions they are true.
+    inferences
+    This stems from the Latin verb inferre, which means "to carry forward". An inference rule allows us to derive logical consequences from premises, i.e., to bring premises to conclusions.
+
+There are different logics, because changing these components yields different frameworks.
+
+Logic and computation are closely related. For example, we can formulate logical statements about computations, and derive logical consequences from them that correspond to results of the computations.
+
+It can be argued that programming is a form of theory building. See for example Programming as Theory Building by Peter Naur.
+
+Prolog is based on classical first-order predicate logic.
