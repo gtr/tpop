@@ -4,4 +4,9 @@ https://www.metalevel.at/prolog
 
 from the "about Prolog" section:
 
-> Prolog is a programming language that is rooted in classical logic. It supports search and unification as built-in features. Prolog allows us to elegantly solve many tasks with short and general programs. Prolog has a pure monotonic core. The following documents are centered around this important aspect of Prolog, allowing declarative debugging and many other approaches that are impossible or only rudimentarily developed in other programming languages. 
+> Prolog is a programming language that is rooted in classical logic. It 
+supports search and unification as built-in features. Prolog allows us to 
+elegantly solve many tasks with short and general programs. Prolog has a pure
+monotonic core. The following documents are centered around this important 
+aspect of Prolog, allowing declarative debugging and many other approaches that
+are impossible or only rudimentarily developed in other programming languages. 
